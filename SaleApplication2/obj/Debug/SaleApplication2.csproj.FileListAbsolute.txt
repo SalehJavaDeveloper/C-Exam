@@ -1,0 +1,11 @@
+C:\Users\HP Pavilion 15\source\repos\SaleApplication2\SaleApplication2\bin\Debug\SaleApplication2.exe.config
+C:\Users\HP Pavilion 15\source\repos\SaleApplication2\SaleApplication2\bin\Debug\SaleApplication2.exe
+C:\Users\HP Pavilion 15\source\repos\SaleApplication2\SaleApplication2\bin\Debug\SaleApplication2.pdb
+C:\Users\HP Pavilion 15\source\repos\SaleApplication2\SaleApplication2\obj\Debug\SaleApplication2.csproj.AssemblyReference.cache
+C:\Users\HP Pavilion 15\source\repos\SaleApplication2\SaleApplication2\obj\Debug\SaleApplication2.Form1.resources
+C:\Users\HP Pavilion 15\source\repos\SaleApplication2\SaleApplication2\obj\Debug\SaleApplication2.Properties.Resources.resources
+C:\Users\HP Pavilion 15\source\repos\SaleApplication2\SaleApplication2\obj\Debug\SaleApplication2.csproj.GenerateResource.cache
+C:\Users\HP Pavilion 15\source\repos\SaleApplication2\SaleApplication2\obj\Debug\SaleApplication2.csproj.CoreCompileInputs.cache
+C:\Users\HP Pavilion 15\source\repos\SaleApplication2\SaleApplication2\obj\Debug\SaleApplication2.exe
+C:\Users\HP Pavilion 15\source\repos\SaleApplication2\SaleApplication2\obj\Debug\SaleApplication2.pdb
+C:\Users\HP Pavilion 15\source\repos\SaleApplication2\SaleApplication2\obj\Debug\SaleApplication2.Newsale.resources
